@@ -17,9 +17,6 @@ Visualizations Included:
 Power BI / Tableau for data visualization
 Excel / SQL for data processing
 Python / Pandas (optional for data manipulation)
-📥 How to Use
-Clone this repository:
-git clone https://github.com/your-username/adidas-sales-analysis.git
 Open the dashboard file in Power BI / Tableau.
 Explore interactive visualizations.
 
